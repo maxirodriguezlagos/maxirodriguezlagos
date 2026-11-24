@@ -1,6 +1,6 @@
 # Hola, soy Maximiliano 👋
 
-Estudiante de la **Tecnicatura Universitaria en Programación** en la UTN Mar del Plata (primer año completo, egreso estimado en diciembre 2027). Busco mi primera experiencia en el mundo IT para seguir creciendo como programador.
+Estudiante de la **Tecnicatura Universitaria en Programación** en la UTN Mar del Plata (primer año completo, egreso estimado en diciembre 2027).
 
 ## Con qué trabajo
 
