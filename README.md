@@ -16,6 +16,6 @@ Estudiante de la **Tecnicatura Universitaria en Programación** en la UTN Mar de
 
 ## Un poco más
 
-Trabajo desde 2015 atendiendo al público en un restaurante con turnos de alta demanda, y también armo y administro las cargas horarias del personal con Excel. De ahí vienen mi orden, el trabajo en equipo y la costumbre de resolver problemas bajo presión.
+Trabajo desde 2015 atendiendo al público en un restaurante con turnos de alta demanda, y también armo planillas y administro las cargas horarias del personal con Excel. De ahí vienen mi orden, el trabajo en equipo y la costumbre de resolver problemas bajo presión.
 
 Idiomas: español nativo, inglés intermedio.
